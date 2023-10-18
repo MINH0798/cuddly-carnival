@@ -29,6 +29,7 @@ export default function Demo_view() {
                 <div className="w-9/12 mx-auto">
                     <TextField className="w-full" id="outlined-basic" label="Title" variant="outlined" placeholder="Enter something..." />
                 </div>
+                
                 <div className="w-9/12 mx-auto flex justify-center mt-5 relative">
                     <FormControl fullWidth>
                         <InputLabel id="demo-simple-select-label">Gantt Chart Type</InputLabel>
